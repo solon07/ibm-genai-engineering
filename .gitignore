@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Datasets grandes
+datasets/*.csv
+datasets/*.parquet
+models/*.bin
+models/*.pt
+models/*.safetensors
+
+# Credenciais
+.env
+*.key
+*.pem
+config.json
