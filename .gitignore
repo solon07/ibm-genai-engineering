@@ -33,3 +33,4 @@ models/*.safetensors
 *.key
 *.pem
 config.json
+venv/
