@@ -1,0 +1,2 @@
+# Bloco 1: Nenhuma dependência necessária
+# Labs são no navegador (IBM AI Classroom)
