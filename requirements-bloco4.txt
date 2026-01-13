@@ -1,0 +1,9 @@
+# Bloco 4: Arquiteturas GenAI (Cursos 10-12)
+torch>=2.1.0
+torchvision>=0.16.0
+datasets>=2.14.0
+tokenizers>=0.14.0
+evaluate>=0.4.0
+nltk>=3.8.0
+spacy>=3.7.0
+sentencepiece>=0.1.99
